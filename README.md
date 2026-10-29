@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,45:414868,100:7aa2f7&height=220&section=header&text=Muzamil%20Adnan&fontSize=68&fontColor=c0caf5&fontAlignY=36&animation=fadeIn&desc=React%20Native%20%26%20Full-Stack%20Engineer&descSize=22&descAlignY=58&descAlign=50" width="100%" alt="Muzamil Adnan" />
+  <img src="assets/header.svg" width="100%" alt="Muzamil Adnan" />
 </p>
 
 <p align="center">
@@ -138,5 +138,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,55:414868,100:1a1b27&height=120&section=footer" width="100%" alt="" />
+  <img src="assets/footer.svg" width="100%" alt="" />
 </p>
