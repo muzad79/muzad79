@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.muzamiladnan.dev">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3200&pause=1200&color=7AA2F7&center=true&vCenter=true&width=640&height=48&lines=Lead+React+Native+Engineer+%40+Kupos;Shipped+apps+to+50%2C000%2B+users+on+iOS+%26+Android;Building+Pydhal+Chalo+%F0%9F%8F%94%EF%B8%8F+for+the+Himalayas" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3200&pause=1200&color=7AA2F7&center=true&vCenter=true&width=900&height=48&lines=Lead+React+Native+Engineer+%40+Kupos;Shipped+apps+to+50%2C000%2B+users+on+iOS+%26+Android;Building+Pydhal+Chalo+%F0%9F%8F%94%EF%B8%8F+for+the+Himalayas" alt="Typing SVG" />
   </a>
 </p>
 
@@ -52,11 +52,11 @@
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muzad79&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true&rank_icon=github" height="165" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=muzad79&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" height="165" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=muzad79&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&sideLabels=c0caf5&dates=565f89" height="180" alt="GitHub streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muzad79&theme=tokyonight" height="180" alt="Top languages by commit" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzad79&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8&card_width=480" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muzad79&theme=tokyonight" width="860" alt="Contributions over the last year" />
 </p>
 
 <br/>
