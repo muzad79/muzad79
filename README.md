@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Muzamil Adnan" />
+  <img src="assets/header-banner.svg" width="100%" alt="Muzamil Adnan" />
 </p>
 
 <p align="center">
@@ -138,5 +138,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="assets/footer.svg" width="100%" alt="" />
+  <img src="assets/footer-banner.svg" width="100%" alt="" />
 </p>
